@@ -3,7 +3,7 @@ package stone.game.namespace;
 import stone.game.namespace.KnightView.AnimationType;
 import android.content.Context;
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;/Users/xyzslash/Dropbox/AndroidDev/Code/src/stone/game/namespace/BackgroundView.java
+import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.view.*;
